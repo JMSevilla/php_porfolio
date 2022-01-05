@@ -14,7 +14,7 @@
                             style="width: 30%; height: auto; margin-bottom : 10px;"
                             class="img-fluid"
                             />
-                            <h5>Our team will provide these services.</h5>
+                            <h5>We propose these services.</h5>
                             <p>
                                 *Quality and Evaluation.
                                 *
@@ -33,7 +33,7 @@
                             class="img-fluid"
                             />
                             <h5>Affordable</h5>
-                            <p>*We can provide an affordable price for you.</p>
+                            <p>*We can provide you a reasonable pricing.</p>
                         </center>
                     </el-card>
                 </div>
@@ -47,8 +47,8 @@
                                     class="img-fluid"
                             />
                             <h5>Team and client Communication</h5>
-                            <p>*We'll keep in touch..
-                                *We can communicate clearly.
+                            <p>*We are able to converse effectively.
+
                             </p>
                         </center>
                     </el-card>
@@ -79,8 +79,8 @@
                     <div class="col-sm">
                         <div style="margin-top: 30px;">
                             <h3>Join our team</h3>
-                            <span>[join our team descriptions here.]</span><br>
-                            <el-button style="margin-top: 20px;" type="primary" plain>Register</el-button>
+                            <span>Our team need someone like you! come on and join us.</span><br>
+                            <el-button @click="onregister()" style="margin-top: 20px;" type="primary" plain>Register</el-button>
                         </div>
                     </div>
                     <div class="col-sm">

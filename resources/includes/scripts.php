@@ -17,9 +17,8 @@
 
 <!--components vue integrations-->
 <script src="resources/js/v_nav/vue_nav.js" type="module"></script>
-<?php
-include("components/footer.php");
-?>
+<script src="resources/js/v_js/vue_register.js" type="module"></script>
+
 
 </body>
 </html>

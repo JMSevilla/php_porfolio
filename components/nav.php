@@ -32,7 +32,7 @@
                 <!-- Left links -->
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Modern Resolve</a>
+                        <a class="nav-link" href="dev_register">Modern Resolve</a>
                     </li>
                 </ul>
                 <!-- Left links -->

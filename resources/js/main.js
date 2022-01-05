@@ -8,5 +8,8 @@ new Vue({
         }
     },
     methods: {
+        onregister: function() {
+            window.location.href = "dev_register";
+        }
     }
 })
